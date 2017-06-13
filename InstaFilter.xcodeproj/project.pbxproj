@@ -54,9 +54,9 @@
 		69C30D131EF08A47000ACD56 /* InstaFilter */ = {
 			isa = PBXGroup;
 			children = (
+				69C30D181EF08A47000ACD56 /* Main.storyboard */,
 				69C30D141EF08A47000ACD56 /* AppDelegate.swift */,
 				69C30D161EF08A47000ACD56 /* ViewController.swift */,
-				69C30D181EF08A47000ACD56 /* Main.storyboard */,
 				69C30D1B1EF08A47000ACD56 /* Assets.xcassets */,
 				69C30D1D1EF08A47000ACD56 /* LaunchScreen.storyboard */,
 				69C30D201EF08A47000ACD56 /* Info.plist */,
